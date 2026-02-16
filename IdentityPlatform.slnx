@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="IdentityPlatform.API/IdentityPlatform.API.csproj" />
+  <Project Path="IdentityPlatform.Application/IdentityPlatform.Application.csproj" />
+  <Project Path="IdentityPlatform.Core/IdentityPlatform.Core.csproj" />
+  <Project Path="IdentityPlatform.Infrastructure/IdentityPlatform.Infrastructure.csproj" />
+  <Project Path="IdentityPlatform.UI/IdentityPlatform.UI.csproj" Id="f04137fb-846e-4932-8d6f-eea6de711de8" />
+</Solution>
