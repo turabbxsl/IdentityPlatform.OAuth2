@@ -6,7 +6,7 @@ This project is a centralized Identity Provider (IdP) built on .NET 10. It imple
 Technology Stack & Architecture
 
 Backend & Core Logic
- - Framework: .NET 10 (C# 14/15) utilizing the latest features for robust and high-performance server-side logic.
+ - Framework: .NET 10 (C# 14) utilizing the latest features for robust and high-performance server-side logic.
  - Architecture: Built using a Clean Architecture approach with a clear separation between Domain, Application, and Infrastructure layers.
  - Design Patterns: Implementation of Repository and Unit of Work patterns to abstract the data layer and ensure transaction integrity.
 
